@@ -1,7 +1,6 @@
 ###  😎👍
 
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weryck-Lemos&exclude_repo=github-readme-stats,anuraghazra.github.io)
-
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Weryck-Lemos&size_weight=0.5&count_weight=0.5)
 
 ## Tecnologias
 ![C](https://img.shields.io/badge/c-%2300599C.svg?style=for-the-badge&logo=c&logoColor=white)
