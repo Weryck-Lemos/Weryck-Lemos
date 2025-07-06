@@ -1,12 +1,7 @@
 ##  😐👍 &nbsp; ☝️🤓
 [![WakaTime](https://github-readme-stats.vercel.app/api/wakatime?username=@8d564266-da0e-4784-8d12-2a6c5262b3d2&layout=compact&theme=dark)](https://wakatime.com/@@8d564266-da0e-4784-8d12-2a6c5262b3d2)
 
-
-## 😴 Estudante de Engenharia de Computação
-📦 Repositórios em processo de organização... talvez.  
-🤖 Um dia eu faço algo legal aqui. Hoje não.
-
-##Tecnologias
+## Tecnologias
 
 ![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white)
 ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54)
@@ -21,3 +16,8 @@
 ![MySQL](https://img.shields.io/badge/MySQL-00000F?style=for-the-badge&logo=mysql&logoColor=white)
 ![Vscode](https://img.shields.io/badge/Vscode-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white)
 ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black)
+
+
+## 😴 Estudante de Engenharia de Computação
+📦 Repositórios em processo de organização... talvez.  
+🤖 Um dia eu faço algo legal aqui. Hoje não.
