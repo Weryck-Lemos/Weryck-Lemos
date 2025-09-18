@@ -4,7 +4,7 @@
 
 ## Um dia eu faço algo legal aqui. Hoje não. 🤖 
 
-Prazer, sou Weryck, estudante de Engenharia de Computação. Tenho grande interesse em:
+Prazer, sou Weryck, estudante de Engenharia da Computação. Tenho grande interesse em:
 - Sistemas embarcados
 - IoT
 - Visão computacional
