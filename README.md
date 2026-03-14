@@ -11,3 +11,5 @@ Prazer, sou Weryck, estudante de Engenharia da Computação. Tenho grande intere
 - Programação competitiva
 - Eletrônica.
 - Análise de dados
+
+![](https://komarev.com/ghpvc/?username=weryck-lemos&color=blue)
