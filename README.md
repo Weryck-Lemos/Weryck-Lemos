@@ -15,6 +15,7 @@ Possuo domínio e experiência em diversas linguagens de programação, aplicada
 * **Sistemas e Baixo Nível:** Assembly, C, C++.
 * **Desenvolvimento de Software:** Go, Java, Python.
 * **Tecnologias Web:** JavaScript, TypeScript.
+* **Hardware e Lógica Digital:** Verilog (HDL).
 
 ---
 
